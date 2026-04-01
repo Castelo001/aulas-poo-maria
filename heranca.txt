@@ -1,0 +1,5 @@
+Criar a superclass Cliente : -Nome -Endereço
+
+Class ClientePj -CNPJ e ClientePF -ClientePF
+
+Class Cliente_App (main)
