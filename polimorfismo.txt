@@ -1,0 +1,2 @@
+Usa anotações @overload(sobrecarga de metodos) e @overrider(sobreposição de metodo)
+class abstract: classes incompletas.

@@ -12,4 +12,9 @@ public class ClientePF extends Cliente{
 	}
 	public void setCPF(String cPF) {
 		CPF = cPF;
-	}}
+	}
+	public String toString() {
+		return super.toString()+"CPF" + CPF;}
+	}
+	}
+	

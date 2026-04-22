@@ -12,5 +12,7 @@ public class ClientePJ extends Cliente{
 	public void setCNPJ(String cNPJ) {
 		CNPJ = cNPJ;
 	}
-	
+public String toString() {
+		return super.toString()+"CNPJ: "+CNPJ;
+	}	
 }
