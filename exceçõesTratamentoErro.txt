@@ -1,0 +1,5 @@
+Uso do try{} -> Onde vai ficar o possível erro
+catch(Erro){Ação que o programa vai tomar}
+}finally{()} -> é opcional, quando usado ele sempre será executado.
+Ramificação do tratamento de erros em Java.   
+Ex divisão por zero - Exception<- Throwable ->Error - Ex: divisão por letra
