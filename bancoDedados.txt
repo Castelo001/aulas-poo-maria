@@ -1,0 +1,11 @@
+Baixar banco de dados sqlite 
+link https://github.com/xerial/sqlite-jdbc
+
+No projeto java CRUDCLIENTE ->propriedadaes ->javabuildpatch
+
+ClienteDAO - > criação de objetos em java quando tem conexão com 
+o banco de dados usa o DAO para organizar as classes de banco
+Usando os comandos sql primeiro 
+Abre conectividade 
+
+CRIAR OUTRU CRUD COM UM OBJETO PRODUTO
